@@ -22,7 +22,7 @@ const StyledMobileNavButton = styled(motion.button)`
   ${({ theme }) => css`
     position: fixed;
     bottom: 1rem;
-    left: 1rem;
+    left: 1rem;https://www.linkedin.com/in/austin-waldsmith-9b716b5b/
     background: none;
     height: 7rem;
     width: 7rem;
